@@ -22,6 +22,9 @@ struct ContentView: View {
             Button("Click Me!") {
                 message = "Awesome!"
             }
+            .buttonStyle(.borderedProminent)
+            .font(.title2)
+            .tint(.orange)
         }
         .padding()
         
