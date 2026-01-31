@@ -1,3 +1,4 @@
-<img width="246" height="419" alt="Screenshot 2026-01-18 at 16 27 36" src="https://github.com/user-attachments/assets/0213040b-14ee-4e4b-bf80-db721ec40135" />
+<img width="320" height="580" alt="image" src="https://github.com/user-attachments/assets/0880e356-0529-4877-b7c3-3f47a4bfa151" />
+
 Thanks Prof. G!!
  
